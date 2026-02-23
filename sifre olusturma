@@ -1,0 +1,12 @@
+import random
+import string
+
+print("Şifre Oluşturucu")
+
+uzunluk = int(input("Şifre uzunluğu: "))
+
+karakterler = string.ascii_letters + string.digits + "!@#$%"
+
+sifre = "".join(random.choice(karakterler) for i in range(uzunluk))
+
+print("Şifren:", sifre) 
