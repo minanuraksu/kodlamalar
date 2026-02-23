@@ -4,8 +4,6 @@
 
 <h1 align="center">Hi 👋, I'am Mina Nur Aksu</h1>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="215" />
-
-<h3 align="center">   💥A passionate aspiring software developer from Türkiye💥</h3>
                       
 <br>
 
@@ -28,19 +26,8 @@
 <p align="center">
 <br>
 <br>
-  <table>
-    <div align="center"> <h1><i>~ JOJO ~</i></h1>
-
-  <tr>
-            <td> <img  src="https://github.com/SelcanTaylan/SelcanTaylan/blob/main/gif10.gif" width="230" height="250">
-            <img src='https://github.com/SelcanTaylan/SelcanTaylan/blob/main/gif6.gif' width='230' height="300"></td>
-            <td><img src="https://github.com/SelcanTaylan/SelcanTaylan/blob/main/gif7.gif" width="245" height="250">
-            <img src='https://github.com/SelcanTaylan/SelcanTaylan/blob/main/gif5.gif' width='245'></td>
-            <td><img src="https://github.com/SelcanTaylan/SelcanTaylan/blob/main/gif9.gif" width="285" height="250" >
-            <img src="https://github.com/SelcanTaylan/SelcanTaylan/blob/main/gif8.gif" width="285" height="265"></td>
-          
-  </tr>
-                 
+ " height="250" >
+      
              
 <table style="border: 2px solid #800000; border-collapse: collapse; width: 100%;">
   <tr>
