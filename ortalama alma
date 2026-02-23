@@ -1,0 +1,17 @@
+print("Not Ortalaması Hesaplayıcı")
+
+notlar = []
+adet = int(input("Kaç not gireceksin: "))
+
+for i in range(adet):
+    n = float(input(f"{i+1}. not: "))
+    notlar.append(n)
+
+ortalama = sum(notlar) / len(notlar)
+
+print("Ortalama:", ortalama)
+
+if ortalama >= 50:
+    print("Geçtin")
+else:
+    print("Kaldın")
