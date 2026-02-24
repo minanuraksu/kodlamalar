@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/bC9OO.gif"></script>" width="400">
+  <img src="https://tenor.com/bC9OO.gifhttps://tenor.com/tr/view/welcome-anime-gif-21686524"></script>" width="400">
 </p>
 
 ![Yılan Oyunu](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
