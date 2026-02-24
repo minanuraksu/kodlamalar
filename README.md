@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFudTc1ZWszMTA5eHpidDdic3NrdGx4cTQyeXB1bDVyY2owNmdiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gB7RoiXGwn1hmBONli/giphy.gif">
-</p>  width="400">
+</p> 
 
 ![Yılan Oyunu](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 <p align="center">
