@@ -3,7 +3,7 @@
 </p> 
 
 <p align="center">
-  <img src="https://cssbud.com/wp-content/uploads/2022/05/pacman-loader.gif" width="120">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/pacman.svg">
 </p>
 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwwMWV5eHlzc24yb3Vma2d1ajloa3N3Yml0dzF6cW83ZWpsaWhidSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sNUWF7fAUP2q4/giphy.gif" width="600">
