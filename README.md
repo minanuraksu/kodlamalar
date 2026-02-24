@@ -45,23 +45,13 @@
       />
     </td>
 
-  <tr>
-    <!-- Aktivite Grafiği -->
-    <td colspan="2" style="text-align: center; padding: 10px;">
-      <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=selcantaylan&bg_color=4B0000&color=c0c0c0&line=ff003c&point=ff003c&area=true&area_color=800000&title_color=ff003c&hide_border=false&custom_title=Selcantaylan's%20Contribution%20Graph" 
-        alt="GitHub Activity Graph"
-        height="250"
-      />
-    </td>
-  </tr>
-</table>
+  
 
 
 
 
 
-<hr>
+
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
