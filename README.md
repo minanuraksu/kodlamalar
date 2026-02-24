@@ -2,6 +2,10 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFudTc1ZWszMTA5eHpidDdic3NrdGx4cTQyeXB1bDVyY2owNmdiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gB7RoiXGwn1hmBONli/giphy.gif">
 </p> 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</p>
+
 ![Yılan Oyunu](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwwMWV5eHlzc24yb3Vma2d1ajloa3N3Yml0dzF6cW83ZWpsaWhidSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sNUWF7fAUP2q4/giphy.gif" width="600">
