@@ -3,7 +3,7 @@
 </p> 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img src="https://tenor.com/gd2nTiwKxpN.gif">
 </p>
 
 <p align="center">
