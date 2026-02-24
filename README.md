@@ -1,12 +1,8 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFudTc1ZWszMTA5eHpidDdic3NrdGx4cTQyeXB1bDVyY2owNmdiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gB7RoiXGwn1hmBONli/giphy.gif">
 </p> 
-<p align="center">
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minanuraksu)
-</p> 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwwMWV5eHlzc24yb3Vma2d1ajloa3N3Yml0dzF6cW83ZWpsaWhidSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sNUWF7fAUP2q4/giphy.gif" width="600">
-</p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minanuraksu&theme=pink)
 
 <h1 align="center">Hi 👋, I'am Mina Nur Aksu</h1>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="215" />
@@ -36,29 +32,6 @@
 <table style="border: 2px solid #800000; border-collapse: collapse; width: 100%;">
   <tr>
     <!-- Genel GitHub İstatistikleri -->
-    <td style="text-align: center; padding: 10px;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=selcantaylan&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&hide_border=false&title_color=ff003c&text_color=c0c0c0&icon_color=ff003c&bg_color=4B0000&border_color=800000&cache_seconds=7200" 
-        alt="GitHub Stats"
-        height="200"
-      />
-    </td>
-     <td style="text-align: center; padding: 10px;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=selcantaylan&layout=compact&title_color=ff003c&text_color=d3d3d3&bg_color=4B0000&border_color=800000&langs_count=10&hide_border=false&cache_seconds=7200" 
-        alt="Top Languages"
-        height="200"
-      />
-    </td>
-
-  
-
-
-
-
-
-
-
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
