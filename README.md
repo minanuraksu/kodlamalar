@@ -3,10 +3,10 @@
 </p> 
 
 <p align="center">
-  <img src=""></script>">
+  <img src="![anime](https://github.com/user-attachments/assets/c5c7c5a0-4bca-48cf-812a-70d9aa5292f1)">
 </p>
 
-<p align="c![anime](https://github.com/user-attachments/assets/c5c7c5a0-4bca-48cf-812a-70d9aa5292f1)
+<p align="c
 enter">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwwMWV5eHlzc24yb3Vma2d1ajloa3N3Yml0dzF6cW83ZWpsaWhidSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sNUWF7fAUP2q4/giphy.gif" width="600">
 </p>
