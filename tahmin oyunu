@@ -1,0 +1,14 @@
+import random
+
+sayi = random.randint(1,100)
+
+while True:
+    tahmin = int(input("Tahmin et: "))
+
+    if tahmin < sayi:
+        print("Daha büyük")
+    elif tahmin > sayi:
+        print("Daha küçük")
+    else:
+        print("Bildin")
+        break
