@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/tRzgbZy972k.gif" width="400">
+  <img src="<div class="tenor-gif-embed" data-postid="16534262409207466882" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cheer-go-go-go-welcome-gif-16534262409207466882">Cheer Go Go Go Sticker</a>from <a href="https://tenor.com/search/cheer-stickers">Cheer Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="400">
 </p>
 
 ![Yılan Oyunu](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
