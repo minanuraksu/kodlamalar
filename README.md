@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient" width="100%"> <img>
+<p align="left">
+  <img src="https://tenor.com/tRzgbZy972k.gif" width="400">
+</p>
 
 ![Yılan Oyunu](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 <p align="center">
