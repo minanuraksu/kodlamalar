@@ -2,7 +2,7 @@
 
 ![Yılan Oyunu](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwwMWV5eHlzc24yb3Vma2d1ajloa3N3Yml0dzF6cW83ZWpsaWhidSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sNUWF7fAUP2q4/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwwMWV5eHlzc24yb3Vma2d1ajloa3N3Yml0dzF6cW83ZWpsaWhidSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sNUWF7fAUP2q4/giphy.gif" width="700">
 </p>
 
 <h1 align="center">Hi 👋, I'am Mina Nur Aksu</h1>
